@@ -85,6 +85,7 @@ By now you would have already have below things in place:
 
 ## Submission:
  
-Once the activity is completed, commit/ push your code into your own GitHub repo. Please share the GitHub repository URL with hiring team, so they can review your work.
+Once you have completed your work, share an invite of **your own** GitHub repo to **projectforyou20@gmail.com**, and send out an email to our hiring team. 
+We will review your work.
 
 # Happy Coding!!
