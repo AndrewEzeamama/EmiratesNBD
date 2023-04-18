@@ -18,11 +18,11 @@
 
 # Considerations:
 
-    1.  The dataset contains information on job postings, not necessarily on job hires, which means that some job postings may not have resulted in a hire.
+    -  The dataset contains information on job postings, not necessarily on job hires, which means that some job postings may not have resulted in a hire.
     2.  The salary information in the dataset may not be accurate, as it is often listed as a range and may not reflect the actual salary offered.
     3.  The dataset contains information only for the year between 2011 and 2019, and may not be representative of the job market in other years.
 
-    Data collection method: Was the data collected through surveys, job postings, or administrative records? This can affect the representativeness of the dataset.
+    1.  Data collection method: Was the data collected through surveys, job postings, or administrative records? This can affect the representativeness of the dataset.
     Data quality: How complete and accurate is the data? Are there missing values, outliers, or errors that need to be addressed?
     Variables included: What variables are included in the dataset, and do they accurately reflect the job market in New York City?
     Timeframe: What time period does the data cover, and is it up-to-date and relevant to current labor market conditions?
